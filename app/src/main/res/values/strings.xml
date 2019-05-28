@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">QuizAppAndroid</string>
+    <string name="quiteBtn">QUIT</string>
+    <string name="txtScore">Current Score =  </string>
+    <string name="score">00</string>
+
 </resources>
